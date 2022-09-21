@@ -41359,9 +41359,9 @@ html:not([data-theme=dark]){
     --kt-header-search-bg-color:black;
     --kt-header-search-placeholder-color:#7E8299;
     --kt-header-search-font-color:#878aa0;
-    --kt-header-button-icon-color:#ffffff;
+    --kt-header-button-icon-color:#EEEEEE;
     --kt-header-button-bg-color:black;
-    --kt-header-button-icon-color-active:#009ef7;
+    --kt-header-button-icon-color-active:white;
     --kt-header-mobile-bg-color:#ffffff;
     --kt-aside-bg-color:#ffffff;
     --kt-aside-box-shadow:0px 0px 80px 50px rgba(206, 213, 225, 0.12);
