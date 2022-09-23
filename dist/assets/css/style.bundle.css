@@ -1894,7 +1894,7 @@ progress{
     color:#5e6278;
     background-color:#fff;
     background-clip:padding-box;
-    box-shadow:0px 0px 0px 3px black inset;
+    box-shadow:0px 0px 0px 1.5px black inset;
     appearance:none;
     border-radius:.95rem;
     transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
