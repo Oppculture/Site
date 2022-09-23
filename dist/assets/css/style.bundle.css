@@ -41505,7 +41505,7 @@ body{
     background-color:var(--kt-header-search-bg-color);
     border-color:var(--kt-header-search-border-color);
     color:var(--kt-header-search-font-color);
-    box-shadow:0px 0px 0px 2px black inset;
+    box-shadow:0px 0px 0px 1.5px black inset;
 }
 .header .header-search .custom-form-control::placeholder{
     color:var(--kt-header-search-placeholder-color)
